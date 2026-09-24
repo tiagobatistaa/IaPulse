@@ -1,1 +1,1 @@
-# RoboScalperForex
+# IA Pulse
